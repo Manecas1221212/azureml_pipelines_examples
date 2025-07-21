@@ -7,3 +7,5 @@ I hope that this content is useful both for those in the course as well as anyon
 
 Happy learning!
 
+Para lançares streamming inference endpoints : https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-online-endpoints?view=azureml-api-2&tabs=python
+
