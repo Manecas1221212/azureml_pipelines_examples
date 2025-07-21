@@ -9,3 +9,4 @@ Happy learning!
 
 Para lançares streamming inference endpoints : https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-online-endpoints?view=azureml-api-2&tabs=python
 
+Para veres como lançares pipelines com Github : https://github.com/Azure/azureml-examples/tree/main/.github/workflows ou https://learn.microsoft.com/en-us/azure/machine-learning/how-to-github-actions-machine-learning?view=azureml-api-2&tabs=userlevel
