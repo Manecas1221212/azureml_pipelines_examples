@@ -18,6 +18,7 @@ args = parser.parse_args()
 training_folder = args.training_folder
 
 # Get the experiment run context
+# Pelo que percebo é uma alternativa a MLFlow
 run = Run.get_context()
 
 # Load the prepared data file
